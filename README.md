@@ -25,7 +25,6 @@ Additional tasks for quick people
 - you‘ll see that a button pops up to access your website!
 - jump into the container with docker exec
 	- can you update  content  at `/usr/share/nginx/html/` ?
-  - see config at `/etc/nginx/nginx.conf`
 
 Still time?
 -------------
