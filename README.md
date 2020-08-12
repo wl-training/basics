@@ -1,11 +1,10 @@
 General things
 ==============
-* open the play with docker website
-* note that it might not work in Chrome with Company proxy (=> use DSL proxy or IE/FF)
+* open the play with docker website (labs.play-with-docker.com)
 * here you can start new instances to try out docker
-* you are already connected to the internet there and can e.g. download images
-* if needed, you can start multiple instances, but please note that resources must suffice for all
-* we can run docker, docker-compose and use docker stacks/swarm here and will use the environment to showcase some features
+* in the shells, you have direct internet access and can e.g. download images
+* if needed, you can start one or multiple instances
+* you can run docker, docker-compose and use docker stacks/swarm here and will use the environment to showcase some features
 * note that your session will be deleted and vanish after 4 hours again!
 * also note that this is a public WebSite in the internet, DON'T input private/company data in there!
 * have a lot of fun =)
